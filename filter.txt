@@ -1,0 +1,3 @@
+! Title: Phishing URL Blocklist
+! Expires: 30 day (update frequency)
+172.20.10.2
